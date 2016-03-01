@@ -1,0 +1,13 @@
+{
+	"groups":[
+	{
+		"keys":"tip_mp3",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"tip_mp3",
+		"type":"sound",
+		"url":"sound/tip.mp3"
+	}]
+}
